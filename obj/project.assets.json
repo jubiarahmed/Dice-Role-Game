@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Microsoft VS\\Dice Roll Game\\Dice Roll Game.csproj",
+      "projectUniqueName": "F:\\Microsoft VS\\Dice-Role-Game\\Dice Roll Game.csproj",
       "projectName": "Dice Roll Game",
-      "projectPath": "F:\\Microsoft VS\\Dice Roll Game\\Dice Roll Game.csproj",
+      "projectPath": "F:\\Microsoft VS\\Dice-Role-Game\\Dice Roll Game.csproj",
       "packagesPath": "C:\\Users\\mdjub\\.nuget\\packages\\",
-      "outputPath": "F:\\Microsoft VS\\Dice Roll Game\\obj\\",
+      "outputPath": "F:\\Microsoft VS\\Dice-Role-Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mdjub\\AppData\\Roaming\\NuGet\\NuGet.Config",
