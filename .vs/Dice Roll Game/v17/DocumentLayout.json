@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\Microsoft VS\\Dice-Role-Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16A97C66-CAD3-42CC-A2AB-EE08B632BB9B}|Dice Roll Game.csproj|f:\\microsoft vs\\dice-role-game\\game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A97C66-CAD3-42CC-A2AB-EE08B632BB9B}|Dice Roll Game.csproj|solutionrelative:game\\guessinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16A97C66-CAD3-42CC-A2AB-EE08B632BB9B}|Dice Roll Game.csproj|f:\\microsoft vs\\dice-role-game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A97C66-CAD3-42CC-A2AB-EE08B632BB9B}|Dice Roll Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GuessingGame.cs",
+              "DocumentMoniker": "F:\\Microsoft VS\\Dice-Role-Game\\Game\\GuessingGame.cs",
+              "RelativeDocumentMoniker": "Game\\GuessingGame.cs",
+              "ToolTip": "F:\\Microsoft VS\\Dice-Role-Game\\Game\\GuessingGame.cs",
+              "RelativeToolTip": "Game\\GuessingGame.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:03:03.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Microsoft VS\\Dice-Role-Game\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Microsoft VS\\Dice-Role-Game\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwD4AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T13:05:24.683Z",
+              "WhenOpened": "2024-03-18T13:03:00.126Z",
               "EditorCaption": ""
             }
           ]
